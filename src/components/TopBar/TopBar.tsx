@@ -60,7 +60,8 @@ width: 200px;
 const LeftSide = styled.div` 
 display: flex;
 justify-content: space-evenly;
-width: 100px;
+width: 300px;
+margin: 0 20px 0 20px;
 `;
 
 export const TopBar: FC = props => {
